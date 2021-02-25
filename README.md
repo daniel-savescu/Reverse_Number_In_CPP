@@ -1,1 +1,1 @@
-# Numar_Invers_-Reverse_Number-_In_CPP
+#Reverse_number_in_cpp-Numar_invers
